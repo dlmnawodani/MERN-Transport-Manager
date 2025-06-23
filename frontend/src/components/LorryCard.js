@@ -1,0 +1,1 @@
+// Lorry card component
